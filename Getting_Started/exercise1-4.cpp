@@ -1,3 +1,8 @@
+/*
+* Write a program that uses mulplication operation * to multiply two numbers
+* and then print their product
+*/
+
 #include <iostream>
 
 int main()
